@@ -9,7 +9,7 @@ and python.Once everything is downloaded you need to extract the files in a fold
 python compiler,run the code and you can start playing.
 
 
-Rules of the game
+# Rules of the game
 
 In this game you are a spaceship,your purpose is to prevent the enemy spaceships which drop down
 from above from reaching the bottom of the screen, you do that by shooting the enemies.Every time an
@@ -21,7 +21,7 @@ wave of enemies you will have you fight off consists of 5 enemy spaceships,after
 fight,and the spaceships will move slightly faster.
 
 
-Controls
+# Controls
 
 To start the game simply click on the game window using any mouse button you want.
 To move your spaceship you will use the arrow keys,and to shoot bullets you have to press the
